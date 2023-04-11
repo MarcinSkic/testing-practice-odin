@@ -1,0 +1,23 @@
+{
+    "name": "testing-practice-odin",
+    "version": "1.0.0",
+    "description": "Repository for practicing TDD",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MarcinSkic/testing-practice-odin.git"
+    },
+    "author": "Marcin Skic",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MarcinSkic/testing-practice-odin/issues"
+    },
+    "homepage": "https://github.com/MarcinSkic/testing-practice-odin#readme",
+    "devDependencies": {
+        "@babel/preset-env": "^7.21.4",
+        "jest": "^29.5.0"
+    }
+}
